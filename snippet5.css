@@ -1,0 +1,18 @@
+@media screen and (pointer: coarse) {
+  .form-grid {
+    gap: 0.5em;
+  }
+
+  label {
+    font-size: 1.05em;
+  }
+
+  input[type="checkbox"] {
+    width: 1.625rem;
+    height: 1.625rem;
+  }
+
+  button[type="button"] {
+    min-height: 3rem;
+  }
+}
